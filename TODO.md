@@ -1,0 +1,1 @@
+- [x] Create screenshots folder and 4 PNG images (placeholders) **SUCCESS**
